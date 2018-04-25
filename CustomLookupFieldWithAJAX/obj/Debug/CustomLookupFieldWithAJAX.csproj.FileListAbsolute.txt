@@ -1,0 +1,5 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\CustomLookupFieldWithAJAX\bin\Debug\CustomLookupFieldWithAJAX.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\CustomLookupFieldWithAJAX\bin\Debug\CustomLookupFieldWithAJAX.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\CustomLookupFieldWithAJAX\obj\Debug\CustomLookupFieldWithAJAX.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\CustomLookupFieldWithAJAX\obj\Debug\CustomLookupFieldWithAJAX.pdb
+C:\Users\spadmin\documents\visual studio 2013\Projects\CustomLookupFieldWithAJAX\CustomLookupFieldWithAJAX\obj\Debug\CustomLookupFieldWithAJAX.csprojResolveAssemblyReference.cache

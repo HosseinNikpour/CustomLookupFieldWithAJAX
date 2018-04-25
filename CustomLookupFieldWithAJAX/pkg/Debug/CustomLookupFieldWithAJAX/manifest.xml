@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d0864eb6-654a-4a73-a057-841865f2f607" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="CustomLookupFieldWithAJAX.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\CustomLookupFieldControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\CustomLookupFieldEditor.ascx" />
+    <TemplateFile Location="XML\FLDTYPES_CustomLookupFieldWithAjax.xml" />
+  </TemplateFiles>
+</Solution>

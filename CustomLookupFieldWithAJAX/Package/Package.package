@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d0864eb6-654a-4a73-a057-841865f2f607" solutionId="d0864eb6-654a-4a73-a057-841865f2f607" resetWebServer="false" sharePointProductVersion="15.0" name="CustomLookupFieldWithAJAX" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="88b156cc-d39b-498d-9541-cc04abf056ae" />
+    <projectItemReference itemId="a27cd34d-a8b9-4db2-824a-86c1dc777349" />
+    <projectItemReference itemId="a3d80f36-c2c5-458c-b716-6d502ee29081" />
+  </projectItems>
+</package>
